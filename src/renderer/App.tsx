@@ -5,6 +5,8 @@ import './App.css';
 function Hello() {
   return (
     <div>
+      <h1>Hello World!</h1>
+      <img src={icon} alt="icon" />
     </div>
   );
 }
